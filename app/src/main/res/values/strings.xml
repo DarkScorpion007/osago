@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Калькулятор ОСАГО</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_rate_label">Базовый тариф</string>
+    <string name="base_rate">1980 руб.</string>
+    <string name="empty_string" />
+    <string name="total_rate_label">Взнос составляет</string>
+    <string name="owner_label">Собственник</string>
+
+</resources>
