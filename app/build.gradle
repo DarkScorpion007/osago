@@ -4,7 +4,7 @@ android {
     buildToolsVersion '20.0.0'
     defaultConfig {
         applicationId 'ru.scorpion.osago2'
-        minSdkVersion 9
+        minSdkVersion 7
         targetSdkVersion 20
         versionCode 1
         versionName '1.0'

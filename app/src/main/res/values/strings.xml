@@ -8,5 +8,16 @@
     <string name="empty_string" />
     <string name="total_rate_label">Взнос составляет</string>
     <string name="owner_label">Собственник</string>
+    <string name="type_ts_label">Тип ТС</string>
+    <string name="forreg_label">Страхование на срок следования к месту регистрации</string>
+    <string name="region_label">Регион</string>
+    <string name="city_label">Населенный пункт/Район</string>
+    <string name="power_label">Мощность двигателя</string>
+    <string name="malus_label">Бонусный/малусный класс</string>
+    <string name="longevity_label">Минимальный возраст и водительский стаж</string>
+    <string name="deadline_label">Срок договора</string>
+    <string name="foreign_label">ТС зарегистрировано в иностранном государстве</string>
+    <string name="foul_label">Имеются грубые нарушения условий страхования</string>
+    <string name="access_label">Без ограничений к допуску управления</string>
 
 </resources>
